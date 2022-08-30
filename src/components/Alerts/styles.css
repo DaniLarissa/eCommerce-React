@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Proza+Libre&family=Satisfy&family=Spectral&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: black;
+  background-color: #fffeff3d;
+}
+
+h1 {
+  font-family: "Satisfy", cursive;
+  text-align: center;
+  padding-top: 10px;
+  background-color: black;
+  color: #fff;
+}
